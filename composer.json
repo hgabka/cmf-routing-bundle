@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0",
-        "hgabka/cmf-routing": "^3.0",
+        "hgabka/cmf-routing": "^7.0",
         "symfony/framework-bundle": "^7.0"
     },
     "require-dev": {
